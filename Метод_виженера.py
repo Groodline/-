@@ -1,4 +1,4 @@
-m = 'HELPO'
+m = 'Goodline'
 k = 'T,U,V,W,X,Y,Z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S'
 k *= len(m) // len(k) + 1
 c = ''
